@@ -25,7 +25,10 @@ public class AppTest
     public void Lion()
     {
     	System.out.println("Byee");
+    	System.out.println("nancuu");
     }
+    
+    
     
     
 }
